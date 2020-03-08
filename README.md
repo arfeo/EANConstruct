@@ -11,4 +11,4 @@ This utility generates the following types of EAN barcodes:
 
 ![EANConstruct](https://static.arfeo.net/ean/ean.png)
 
-I don't have a clue how a Symantec THINK C project and resources could be uploaded somewhere outside the old Macintosh system, so building this code could be an ass pain.
+I don't have a clue how a Symantec THINK C project and resources could be read and uploaded outside the old Macintosh system, so building this code is supposed to be an ass pain.
