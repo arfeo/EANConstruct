@@ -4,10 +4,10 @@ EAN barcodes creation tool for Mac OS 7-9. Written in 1997.
 
 This utility generates the following types of EAN barcodes:
 
-* EAN-A
-* EAN-D
-* EAN-E
-* EAN-EM
+* UPC Version A
+* EAN-13
+* EAN-8
+* UPC Version E
 
 ![EANConstruct](https://static.arfeo.net/ean/ean.png)
 
