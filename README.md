@@ -1,8 +1,8 @@
 # EANConstruct
 
-EAN barcodes creation tool for Mac OS 7-9. Written in 1997.
+EAN/UPC barcodes creation tool for Mac OS 7-9. Written in 1997.
 
-This utility generates the following types of EAN barcodes:
+This utility generates the following types of barcodes:
 
 * UPC Version A
 * EAN-13
